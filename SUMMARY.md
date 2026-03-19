@@ -24,8 +24,6 @@
 
 ## Civics
 
-***
-
 * [Democracy](why-democracy.md)
 * [Death Penalty](death-penalty.md)
 * [Restorative Justice](restorative-justice.md)
@@ -35,26 +33,22 @@
 
 ## GSRM
 
-***
-
 * [Gender & Sex](gender-and-sex.md)
 * [Conversion Therapy](conversion-therapy.md)
 * [Transgender](trans.md)
 * [Homosexuals aren't Pedophiles](lgbtq+-pedophiles.md)
 * [Counterarguments](counterarguments.md)
 
-## Heterodox Economics Bad <a href="heterodox-economics-debunked" id="heterodox-economics-debunked"></a>
+## Heterodox Economics Bad <a href="#heterodox-economics-debunked" id="heterodox-economics-debunked"></a>
 
 * [Modern Monetary Theory](heterodox-economics-debunked/mmtbad.md)
 
 ## socialism bad
 
-***
-
 * [Economic Calculation Problem](economic-calculation-problem.md)
 * [Marxian Economics](marxian-economics.md)
 * [Marxism-Leninism](marxism-leninism/README.md)
-  * [Uyghur Detentions](https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg\_zYp80-IO0oqHpuCk/edit)
+  * [Uyghur Detentions](https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit)
 * [Venezuela](venezuela.md)
 * [North Korea](north-korea.md)
 * [Market Socialism](market-socialism.md)
